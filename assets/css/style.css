@@ -1,0 +1,10 @@
+*,
+*::before,
+*::after {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+body {
+    background-size: 100%;
+}
